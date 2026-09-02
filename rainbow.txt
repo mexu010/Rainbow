@@ -1,7 +1,6 @@
 Red
 Orange
 Gelb
-Grün
 Blau
 Indigo
 Violett
